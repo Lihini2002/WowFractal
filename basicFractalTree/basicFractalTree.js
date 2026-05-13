@@ -31,7 +31,7 @@ function draw() {
 
 
 // argument to give to this function which is how long the tree is. 
-function branch(len){
+function branch(len ){
      line(0,0, 0, -len) 
       translate(0, -len) 
      
